@@ -1,0 +1,12 @@
+data/
+sim/
+results/
+*.fasta
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.vcf.gz
+*.csi
+*.ipynb_checkpoints/
+__pycache__/
